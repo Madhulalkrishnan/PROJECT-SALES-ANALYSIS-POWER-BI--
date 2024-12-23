@@ -84,17 +84,6 @@ To replicate this project, follow these steps:
 
 ---
 
-## Contributing
-
-Contributions to this project are welcome. Please follow these steps:
-1. Fork the repository.
-2. Create a feature branch: `git checkout -b feature-name`.
-3. Commit your changes: `git commit -m "Add feature"`.
-4. Push to the branch: `git push origin feature-name`.
-5. Submit a pull request for review.
-
----
-
 ## Contact
 
 For inquiries or feedback, please contact:
