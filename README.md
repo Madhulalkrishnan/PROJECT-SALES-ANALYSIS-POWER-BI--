@@ -56,15 +56,6 @@ This project highlights several critical insights:
 
 ---
 
-## Installation
-
-To replicate this project, follow these steps:
-1. Clone the repository: 
-2. Install Power BI Desktop from the official [Microsoft Power BI website](https://powerbi.microsoft.com/).
-3. Import the dataset provided in the repository.
-4. Open the Power BI file (`.pbix`) to access the dashboard.
-
----
 
 ## Usage
 
